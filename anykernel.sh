@@ -5,6 +5,12 @@
 # begin properties
 properties() { '
 kernel.string=
+kernel.for=KernelForDriver
+kernel.compiler=Liquidprkt
+kernel.made=Kunmun
+kernel.version=4.14.xxx
+message.word=bruh
+build.date=2069
 do.devicecheck=1
 do.modules=0
 do.systemless=1
