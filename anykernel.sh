@@ -16,7 +16,7 @@ supported.patchlevels=
 '; } # end properties
 
 # shell variables
-block=;
+block=auto;
 is_slot_device=0;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
