@@ -23,7 +23,7 @@ supported.patchlevels=
 
 # shell variables
 block=auto;
-is_slot_device=0;
+is_slot_device=auto;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
 no_block_display=1;
