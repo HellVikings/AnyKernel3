@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=
-kernel.for=KernelForDriver
-kernel.compiler=Liquidprkt
-kernel.made=Kunmun
-kernel.version=4.14.xxx
-message.word=bruh
-build.date=2069
+kernel.string= Liquid Kernel 
+kernel.for=EAS
+kernel.compiler= Azure Clang
+kernel.made= Archerius_02
+kernel.version=4.14.190
+message.word= Thank you for installing Liquid-Kernel
+build.date= $(date)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
