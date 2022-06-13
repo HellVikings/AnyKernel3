@@ -11,12 +11,11 @@ kernel.made= Archerius_02
 kernel.version=4.14.190
 message.word= Thank you for installing Liquid-Kernel
 build.date= $(date)
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
 supported.versions=
 supported.patchlevels=
 '; } # end properties
